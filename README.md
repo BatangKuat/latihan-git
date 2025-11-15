@@ -1,4 +1,4 @@
 halo nama saya christian
 aku suka makan bakmi
 main game lol wr
-logout aja
+logout bab
