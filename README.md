@@ -1,9 +1,4 @@
-hello
-namaku tian
-aku suka 
-
-blablabla blebleble
-
-aurelio ganteng ajarain aku
-
-login login
+halo nama saya lie
+aku suka makan babi
+main game mobile legend
+login-login
