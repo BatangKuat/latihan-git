@@ -18,9 +18,10 @@ dibagi kepada anggota tim untuk dikerjakan secara paralel.
 """
 
 def add(a, b):
-    # TODO: Tambahkan kode untuk operasi penjumlahan
-    pass
-
+    a = int(input("masukan angka pertama"))
+    b = int(input("masukan angka kedua"))
+    c = a + b
+    return c
 
 def subtract(a, b):
     # TODO: Tambahkan kode untuk operasi pengurangan
