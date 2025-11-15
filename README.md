@@ -1,4 +1,4 @@
-halo nama saya lie
-aku suka makan babi
-main game mobile legend
-login-login
+halo nama saya christian
+aku suka makan bakmi
+main game lol wr
+logout aja
